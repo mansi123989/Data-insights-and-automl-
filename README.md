@@ -3,6 +3,9 @@
 ## 📖 Overview
 Data Insights & AutoML is a Streamlit-based application that automates data preprocessing, exploratory data analysis (EDA), machine learning model training, and prediction, enabling users to analyze datasets and build ML models without writing code.
 
+## 📸 Screenshots
+The **Screenshots/** folder contains sample outputs and the user interface of the application, showcasing its key features and workflow.
+
 ## 🔄 Workflow
 1. Upload a CSV dataset.
 2. Perform automatic data preprocessing.
