@@ -25,3 +25,42 @@ The **Screenshots/** folder contains sample outputs and the user interface of th
 - Plotly
 - YData Profiling
 - Joblib
+
+## ▶️ How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd <project-folder>
+   ```
+
+3. Create and activate a virtual environment (optional but recommended):
+   ```bash
+   python -m venv venv
+   ```
+
+   **Windows**
+   ```bash
+   venv\Scripts\activate
+   ```
+
+   **Linux/macOS**
+   ```bash
+   source venv/bin/activate
+   ```
+
+4. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Run the Streamlit application:
+   ```bash
+   streamlit run app.py
+   ```
+
+6. Open the URL displayed in the terminal (usually `http://localhost:8501`) in your web browser.
