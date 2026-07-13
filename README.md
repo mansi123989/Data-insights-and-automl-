@@ -30,12 +30,12 @@ The **Screenshots/** folder contains sample outputs and the user interface of th
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   ```
+   
+   git clone https://github.com/mansi123989/Data-insights-and-automl-.git
 
 2. Navigate to the project directory:
    ```bash
-   cd <project-folder>
+   cd Data-insights-and-automl
    ```
 
 3. Create and activate a virtual environment (optional but recommended):
